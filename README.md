@@ -8,3 +8,5 @@ contenant pour chaque exemple du fichier eval.csv la classe trouvée par mon mei
 
 Une justification sur la raison d'une expérimentation est donnée à chaque fois ainsi qu'une analyse succinte du résultat obtenu.
 
+
+Projet fait de mon côté mais inspiré de ce qui a été vu en cours
